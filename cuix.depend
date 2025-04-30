@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745935122 source:c:\dev\cuix\main.cpp
+	<GL/glut.h>
+	<vector>
+	<algorithm>
+	<cmath>
+
